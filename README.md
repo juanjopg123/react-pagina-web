@@ -3,6 +3,8 @@
 Este proyecto es una aplicación web creada con React utilizando la plantilla estándar de Create React App.
 Aquí encontrarás instrucciones sobre instalación, ejecución, scripts disponibles, estructura del proyecto y requisitos.
 
+-----------------------------------------------------------------------------------------------------
+
 🚀 Características principales
 
 Proyecto creado con Create React App
@@ -12,6 +14,8 @@ Estructura lista para escalar con carpeta components/
 Configuración inicial para correr en entorno local
 
 Scripts automáticos para desarrollo y build
+
+-----------------------------------------------------------------------------------------------------
 
 📦 Requisitos
 
@@ -28,25 +32,7 @@ Puedes verificar la instalación con:
 node -v
 npm -v
 
-📁 Estructura del Proyecto
-
-reactpaginaweb/
-├── node_modules/
-├── public/
-├── src/
-│   ├── components/
-│   ├── App.css
-│   ├── App.js
-│   ├── App.test.js
-│   ├── index.css
-│   ├── index.js
-│   ├── logo.svg
-│   ├── reportWebVitals.js
-│   └── setupTests.js
-├── .gitignore
-├── package.json
-├── package-lock.json
-└── README.md
+-----------------------------------------------------------------------------------------------------
 
 ⚙️ Instalación
 
@@ -56,6 +42,7 @@ npm install
 
 Esto instalará todas las dependencias listadas en el package.json.
 
+-----------------------------------------------------------------------------------------------------
 
 ▶️ Cómo ejecutar el proyecto
 
@@ -68,6 +55,8 @@ Esto abrirá automáticamente la app en:
 👉 http://localhost:3000
 
 El servidor recarga automáticamente al guardar cambios.
+
+-----------------------------------------------------------------------------------------------------
 
 🛠️ Scripts disponibles
 
@@ -88,6 +77,8 @@ Lanza el runner de pruebas en modo interactivo.
 npm run eject
 
 ⚠️ Irreversible: expone toda la configuración de Create React App.
+
+-----------------------------------------------------------------------------------------------------
 
 🌐 Despliegue
 
